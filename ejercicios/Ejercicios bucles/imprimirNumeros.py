@@ -4,7 +4,6 @@
 for numero in range(1, 101):
     print(numero)
 
-
 # WHILE
 contador = 1
 while(contador <= 100):
