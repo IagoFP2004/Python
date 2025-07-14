@@ -5,20 +5,6 @@ Este proyecto es parte de mi camino de aprendizaje en programación con Python. 
 
 ---
 
-## 📚 Contenido
-
-- `HolaMundo.py` → Mi primer programa en Python
-- `variables.py` → Uso básico de variables
-- `condicionales.py` → Sentencias `if`, `else` y `elif`
-- `bucles.py` → Uso de `for` y `while`
-- `funciones.py` → Definición y uso de funciones
-- `listas.py`, `diccionarios.py` → Tipos de datos más usados
-- `proyectos/` → Mini proyectos de práctica
-
-*(La lista crecerá con el tiempo)*
-
----
-
 ## 🛠 Requisitos
 
 - [Python 3.10+](https://www.python.org/)
