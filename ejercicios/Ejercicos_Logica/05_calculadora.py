@@ -25,8 +25,8 @@ def detenerEjecucion(respuesta):
 
 while True:
     #Entrada de datos al programa 
-    numero1 = int(input("Introduce el primer numero: "))
-    numero2 = int(input("Introduce el segundo numero: "))
+    numero1 = float(input("Introduce el primer numero: "))
+    numero2 = float(input("Introduce el segundo numero: "))
     operador = input("Introduce la operacion que deseas realizar (+,-,*,/)")#Se indica el tipo de operacion que se quiere realizar
 
     #Segun la eleccion del operador ejecutara una u otra funcion
@@ -54,5 +54,5 @@ while True:
         elif decision is False:
             break
         else:
-            salir_del_programa = input("Respuesta no válida. Escribe 'si' o 'no': ")
+            salir_del_programa = input("Respuesta no válida. Escribe 'si' o 'no': ").lower()
 
